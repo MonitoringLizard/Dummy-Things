@@ -1,1 +1,0 @@
-fgets(txt, 25, stdin);
