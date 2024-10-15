@@ -37,3 +37,8 @@ int main()
 
     return 0;
 }
+/*
+    REMENBER: 
+    "if" is better for cases that uses other comparsion signs than "=="
+    "switch" is made for cases where its needed to test a certain value multiples times using the "=="
+*/
